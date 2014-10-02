@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\bin\Debug\Poker-Player.exe.config
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\bin\Debug\Poker-Player.exe
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\bin\Debug\Poker-Player.pdb
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\obj\Debug\Poker-Player.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\obj\Debug\Poker-Player.exe
+C:\Users\Technologist\Documents\GitHub\Poker-Player\Poker-Player\Poker-Player\obj\Debug\Poker-Player.pdb
